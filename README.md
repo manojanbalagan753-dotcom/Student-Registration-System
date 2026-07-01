@@ -103,7 +103,7 @@ This project helped me learn:
 
 ## 👨‍💻 Author
 
-**Mukesh K**
+**MANOJ A**
 
 B.Tech – Information Technology
 
